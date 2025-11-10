@@ -10,26 +10,26 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "filament/filament": "^4.0",
-        "laravel/framework": "^12.0",
+        "filament/filament": "^4.2",
+        "laravel/framework": "^12.37",
         "laravel/tinker": "^2.10.1",
-        "livewire/livewire": "^3.6",
+        "livewire/livewire": "^3.6.4",
         "nunomaduro/essentials": "@dev"
     },
     "require-dev": {
-        "driftingly/rector-laravel": "^2.0",
-        "fakerphp/faker": "^1.23",
-        "laravel/boost": "^1.6",
-        "laravel/pail": "^1.2.2",
-        "laravel/pint": "^1.22",
-        "laravel/sail": "^1.41",
-        "mockery/mockery": "^1.6",
-        "nunomaduro/collision": "^8.6",
-        "pestphp/pest": "*",
-        "pestphp/pest-plugin-faker": "*",
-        "pestphp/pest-plugin-laravel": "*",
-        "pestphp/pest-plugin-livewire": "*",
-        "rector/rector": "*"
+        "driftingly/rector-laravel": "^2.1.3",
+        "fakerphp/faker": "^1.24.1",
+        "laravel/boost": "^1.7.1",
+        "laravel/pail": "^1.2.3",
+        "laravel/pint": "^1.25.1",
+        "laravel/sail": "^1.47",
+        "mockery/mockery": "^1.6.12",
+        "nunomaduro/collision": "^8.8.2",
+        "pestphp/pest": ">=4.1.3",
+        "pestphp/pest-plugin-faker": ">=4",
+        "pestphp/pest-plugin-laravel": ">=4",
+        "pestphp/pest-plugin-livewire": ">=4.0.1",
+        "rector/rector": ">=2.2.7"
     },
     "autoload": {
         "psr-4": {
